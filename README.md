@@ -1,4 +1,4 @@
-lab 3 
+hlab 3 
 
 git clone
 ///txt file
@@ -7,4 +7,5 @@ git add .
 git commit -m "msg"
 git push
 git fetch orgin
-git rebase orgin
+git checkout f1
+git rebase orgin 
